@@ -1,0 +1,392 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Borja",
+      "surnames": "Sánchez de Gabriel",
+      "title": "Project manager & Senior PHP developer",
+      "description": "Buscando un empleo el cual no me haga pensar en \"trabajo\", y si algo que me haga comenzar cada día con ilusión, reto y disfrute.\nAunque me considero buen profesional, no dudo en preguntar las veces que sea necesario, puesto que cualquier momento es ideal para aprender.\nEn lo que respecta a programación, me muevo mejor en las sombras del back-end, la gestión, optimización, y entre las \"riñas\" con clientes. Aunque me enfrento a lo que haga falta, y aunque pueda perder algún que otro año de vida, siempre termino resolviendo la situación.",
+      "avatar": {
+        "alt": "1599505237161.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/b88a0cb5-4cf4-492d-9e90-d75c03c12e8c_1599505237161.jpg"
+      },
+      "location": {
+        "notes": "Álora, Málaga"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/borjasanchezdegabriel/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Cinéfilo",
+        "fact": "Todo lo que no venga de Disney Channel, se merece un visionado."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Royal Comunicación",
+          "image": {
+            "alt": "1646647157104.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/4b892218-8438-4d9f-bc58-d3f84d5a9c2e_1646647157104.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/royal-comunicaci-n/mycompany/verification/"
+        },
+        "roles": [
+          {
+            "name": " Project Development Manager",
+            "startDate": "2019-05-01",
+            "challenges": [
+              {
+                "description": "Gestión de proyecto, arquitectura de base de datos relacional, arquitectura proyecto en Laravel, trato con cliente, gestión de un equipo pequeño y organización de tareas.\nY por supuesto, picando código."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPStorm",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Dinamic Area Software",
+          "image": {
+            "alt": "1519861641356.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/99a75b14-71da-429f-a5a1-af2f59b2f112_1519861641356.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/dinamic-area/"
+        },
+        "roles": [
+          {
+            "name": " Gestión de proyecto & Full Stack developer",
+            "startDate": "2016-03-01",
+            "finishDate": "2019-05-01",
+            "challenges": [
+              {
+                "description": "Gestión de proyecto, resolución de incidencias, gestión de equipo y mucho picar código."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPStorm",
+                "type": "technology"
+              },
+              {
+                "name": "SourceTree",
+                "type": "technology"
+              },
+              {
+                "name": "Trello",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "Zend",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Yo mismo"
+        },
+        "roles": [
+          {
+            "name": "Freelancer web developer",
+            "startDate": "2011-01-01",
+            "finishDate": "2015-03-01",
+            "challenges": [
+              {
+                "description": "Pues habia que comenzar por algo, asi que me tocó adaptarme a varios cliente y hacerles aplicaciones a medida por nada y menos mientras estudiaba."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sonar",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPStorm",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado superior Desarrollo Aplicaciones Multiplataforma (DAM)",
+        "startDate": "2015-09-01",
+        "finishDate": "2016-06-01",
+        "institution": {
+          "name": "IES Majuelo, Sevilla"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado superior Desarrollo de Aplicaciones Web",
+        "startDate": "2013-09-01",
+        "finishDate": "2015-06-01",
+        "institution": {
+          "name": "IES Camas"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Titulo en bachiller Ciencias",
+        "startDate": "2011-09-01",
+        "finishDate": "2013-06-01",
+        "institution": {
+          "name": "IES Vicente Aleixandre, Sevilla"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/borjasanchezdegabriel/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
