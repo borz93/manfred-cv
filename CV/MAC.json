@@ -314,11 +314,11 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Grado superior Desarrollo de Aplicaciones Web",
+        "name": "Grado superior Desarrollo de Aplicaciones Web (DAW)",
         "startDate": "2013-09-01",
         "finishDate": "2015-06-01",
         "institution": {
-          "name": "IES Camas"
+          "name": "IES Camas, Sevilla"
         },
         "linkedCompetences": [
           {
