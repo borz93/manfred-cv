@@ -281,6 +281,12 @@
       },
       {
         "skill": {
+          "name": "Swagger",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JSON",
           "type": "technology"
         }
@@ -384,6 +390,10 @@
     },
     "preferences": {
       "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
         {
           "name": "Git",
           "type": "technology"
