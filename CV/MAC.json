@@ -275,6 +275,12 @@
       },
       {
         "skill": {
+          "name": "MVC",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Sonar",
           "type": "technology"
         }
