@@ -57,6 +57,10 @@
             ],
             "competences": [
               {
+                "name": "API",
+                "type": "technology"
+              },
+              {
                 "name": "AngularJS",
                 "type": "technology"
               },
@@ -74,6 +78,10 @@
               },
               {
                 "name": "PHPStorm",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
                 "type": "technology"
               },
               {
