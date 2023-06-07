@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,19 +11,16 @@
       "title": "Project manager & Senior PHP developer",
       "description": "Buscando un empleo el cual no me haga pensar en \"trabajo\", y si algo que me haga comenzar cada día con ilusión, reto y disfrute.\nAunque me considero buen profesional, no dudo en preguntar las veces que sea necesario, puesto que cualquier momento es ideal para aprender.\nEn lo que respecta a programación, me muevo mejor en las sombras del back-end, la gestión, optimización, y entre las \"riñas\" con clientes. Aunque me enfrento a lo que haga falta, y aunque pueda perder algún que otro año de vida, siempre termino resolviendo la situación.",
       "avatar": {
-        "alt": "1599505237161.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/b88a0cb5-4cf4-492d-9e90-d75c03c12e8c_1599505237161.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/b88a0cb5-4cf4-492d-9e90-d75c03c12e8c_1599505237161.jpg",
+        "alt": "1599505237161.jpg"
       },
       "location": {
-        "notes": "Álora, Málaga"
+        "notes": "Autocompleted using Google Maps API (id: ChIJqYEm7PLqcg0RHlOmQ90P9ek)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Álora"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/borjasanchezdegabriel/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Cinéfilo",
@@ -41,8 +38,8 @@
         "organization": {
           "name": "Royal Comunicación",
           "image": {
-            "alt": "1646647157104.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/4b892218-8438-4d9f-bc58-d3f84d5a9c2e_1646647157104.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/4b892218-8438-4d9f-bc58-d3f84d5a9c2e_1646647157104.jpg",
+            "alt": "1646647157104.jpg"
           },
           "URL": "https://www.linkedin.com/company/royal-comunicaci-n/mycompany/verification/"
         },
@@ -50,6 +47,7 @@
           {
             "name": " Project Development Manager",
             "startDate": "2019-05-01",
+            "finishDate": "2022-10-01",
             "challenges": [
               {
                 "description": "Gestión de proyecto, arquitectura de base de datos relacional, arquitectura proyecto en Laravel, trato con cliente, gestión de un equipo pequeño y organización de tareas.\nY por supuesto, picando código."
@@ -96,8 +94,8 @@
         "organization": {
           "name": "Dinamic Area Software",
           "image": {
-            "alt": "1519861641356.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/99a75b14-71da-429f-a5a1-af2f59b2f112_1519861641356.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/99a75b14-71da-429f-a5a1-af2f59b2f112_1519861641356.jpg",
+            "alt": "1519861641356.jpg"
           },
           "URL": "https://www.linkedin.com/company/dinamic-area/"
         },
@@ -200,28 +198,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Symfony",
+          "name": "API",
           "type": "technology"
         }
       },
@@ -233,13 +221,13 @@
       },
       {
         "skill": {
-          "name": "Vue",
+          "name": "Git",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "JSON",
           "type": "technology"
         }
       },
@@ -251,19 +239,31 @@
       },
       {
         "skill": {
-          "name": "API",
+          "name": "Laravel",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "MVC",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Redis",
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPStorm",
           "type": "technology"
         }
       },
@@ -275,7 +275,7 @@
       },
       {
         "skill": {
-          "name": "MVC",
+          "name": "Redis",
           "type": "technology"
         }
       },
@@ -293,13 +293,13 @@
       },
       {
         "skill": {
-          "name": "JSON",
+          "name": "Symfony",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PHPStorm",
+          "name": "Vue",
           "type": "technology"
         }
       }
@@ -310,10 +310,10 @@
         "degreeAchieved": true,
         "name": "Grado superior Desarrollo Aplicaciones Multiplataforma (DAM)",
         "startDate": "2015-09-01",
-        "finishDate": "2016-06-01",
         "institution": {
           "name": "IES Majuelo, Sevilla"
         },
+        "finishDate": "2016-06-01",
         "linkedCompetences": [
           {
             "name": "Android",
@@ -342,10 +342,10 @@
         "degreeAchieved": true,
         "name": "Grado superior Desarrollo de Aplicaciones Web (DAW)",
         "startDate": "2013-09-01",
-        "finishDate": "2015-06-01",
         "institution": {
           "name": "IES Camas, Sevilla"
         },
+        "finishDate": "2015-06-01",
         "linkedCompetences": [
           {
             "name": "CSS",
@@ -378,9 +378,29 @@
         "degreeAchieved": true,
         "name": "Titulo en bachiller Ciencias",
         "startDate": "2011-09-01",
-        "finishDate": "2013-06-01",
         "institution": {
           "name": "IES Vicente Aleixandre, Sevilla"
+        },
+        "finishDate": "2013-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Inteligencia emocional",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -389,8 +409,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/borjasanchezdegabriel/"
+          "URL": "https://www.linkedin.com/in/borjasanchezdegabriel/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "borja.sanchez01@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "684069947",
+          "countryCode": "+34"
         }
       ]
     },
@@ -420,7 +449,17 @@
           "name": "Symfony",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer",
+        "Product Manager"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Pues realmente un trabajo decente, transparente, que mire por los trabajadores, y al mismo tiempo, que ofrezca retos, buen rollo en el equipo y aprendizaje.\nSomo humanos, y de manera humana pienso que hay que trabajar, aprendiendo de cada reto y mejorando para el siguiente.",
+    "goodPractices": "Código limpio, optimo y previsión en code smells, trato con el cliente, metodologías Agile, experiencia trabajo remoto y autogestión. Carisma, empatía y alguna que otra cosa seguro."
   }
 }
