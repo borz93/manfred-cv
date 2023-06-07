@@ -36,6 +36,68 @@
     "jobs": [
       {
         "organization": {
+          "name": "BeezNest",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/07/f663c5b7-e91a-4fba-bbdc-196053f8001c_descarga.png",
+            "alt": "descarga.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior software engineer",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Developer on Chamilo LMS, an open source learning management system."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPStorm",
+                "type": "technology"
+              },
+              {
+                "name": "PHPunit",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Royal Comunicación",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/4b892218-8438-4d9f-bc58-d3f84d5a9c2e_1646647157104.jpg",
