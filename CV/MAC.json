@@ -307,6 +307,12 @@
       },
       {
         "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MVC",
           "type": "technology"
         }
