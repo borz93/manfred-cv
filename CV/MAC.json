@@ -539,6 +539,12 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "PHP",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Pues realmente un trabajo decente, transparente, que mire por los trabajadores, y al mismo tiempo, que ofrezca retos, buen rollo en el equipo y aprendizaje.\nSomo humanos, y de manera humana pienso que hay que trabajar, aprendiendo de cada reto y mejorando para el siguiente.",
     "goodPractices": "Código limpio, optimo y previsión en code smells, trato con el cliente, metodologías Agile, experiencia trabajo remoto y autogestión. Carisma, empatía y alguna que otra cosa seguro."
   }
