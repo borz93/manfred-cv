@@ -283,6 +283,12 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
