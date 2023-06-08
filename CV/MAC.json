@@ -547,6 +547,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "API",
+        "type": "technology"
+      },
+      {
         "name": "JavaScript",
         "type": "technology"
       },
