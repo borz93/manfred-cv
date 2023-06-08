@@ -343,6 +343,12 @@
       },
       {
         "skill": {
+          "name": "Primefaces",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "REST",
           "type": "technology"
         }
