@@ -301,6 +301,12 @@
       },
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jenkins",
           "type": "technology"
         }
@@ -540,6 +546,10 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "MySQL",
+        "type": "technology"
+      },
       {
         "name": "PHP",
         "type": "technology"
