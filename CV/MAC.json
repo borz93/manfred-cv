@@ -48,7 +48,7 @@
             "startDate": "2022-10-01",
             "challenges": [
               {
-                "description": "Developer on Chamilo LMS, an open source learning management system."
+                "description": "Developer on Chamilo LMS, an open source learning management system.\n\nMicrogestión del proyecto, tareas de corrección e implementación de funcionalidades, así como optimización y refactorizacion de código legacy.\nTrabajo en la nueva versión de Chamilo, aun en fase beta."
               }
             ],
             "competences": [
