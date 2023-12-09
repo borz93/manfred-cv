@@ -584,6 +584,6 @@
       }
     ],
     "desiredJobDescription": "Pues realmente un trabajo decente, transparente, que mire por los trabajadores, y al mismo tiempo, que ofrezca retos, buen rollo en el equipo y aprendizaje.\nSomo humanos, y de manera humana pienso que hay que trabajar, aprendiendo de cada reto y mejorando para el siguiente.",
-    "goodPractices": "Código limpio, optimo y previsión en code smells, trato con el cliente, metodologías Agile, experiencia trabajo remoto y autogestión. Carisma, empatía y alguna que otra cosa seguro."
+    "goodPractices": "Aplico los principios SOLID para darle robustez al código siempre que puedo, buscando la mejor manera de optimizarlo sin perder de vista la claridad y la legibilidad.\n\nComento mi código e intento que sea lo mas limpio posible, no solo porque es una buena práctica, sino porque por experiencia, se que un pequeño comentario puede ser una gran ayuda para mis compañeros y salvar alguna que otra hecatombe.\n\nSiempre estoy listo para aprender algo nuevo, ya sea una nueva tecnología o una perspectiva, práctica o consejo de un compañero. También me tomo el tiempo para intentar anticipar posibles \"code smells\" y abordarlos antes de que se conviertan en problemas.\n\nAdemás, disfruto compartiendo conocimientos y experiencias con mis compañeros. Todos tenemos algo valioso que aportar, y siempre estoy dispuesto por aprender de los demás, tanto en el profesional como lo personal."
   }
 }
