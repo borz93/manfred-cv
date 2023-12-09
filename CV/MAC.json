@@ -295,13 +295,37 @@
       },
       {
         "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Cucumber",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -338,6 +362,12 @@
       {
         "skill": {
           "name": "MVC",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Moodle",
           "type": "technology"
         }
       },
@@ -398,6 +428,12 @@
       {
         "skill": {
           "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
           "type": "technology"
         }
       }
@@ -567,6 +603,10 @@
         "type": "technology"
       },
       {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
         "name": "Laravel",
         "type": "technology"
       },
@@ -576,10 +616,6 @@
       },
       {
         "name": "PHP",
-        "type": "technology"
-      },
-      {
-        "name": "REST",
         "type": "technology"
       }
     ],
