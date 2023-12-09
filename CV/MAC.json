@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -29,6 +29,16 @@
       {
         "topic": "Amante cultura oriental",
         "fact": "Todo lo que venga del este, me llama la atención; cultura y estilo de vida, música, cine, anime, gastronomía, ideologías, etc."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/borjasanchezdegabriel/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/BorjaSanchezBeezNest"
       }
     ]
   },
@@ -261,10 +271,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
