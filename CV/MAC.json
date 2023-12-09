@@ -50,7 +50,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/07/f663c5b7-e91a-4fba-bbdc-196053f8001c_descarga.png",
             "alt": "descarga.png"
-          }
+          },
+          "URL": "https://github.com/BorjaSanchezBeezNest"
         },
         "roles": [
           {
@@ -96,6 +97,10 @@
               },
               {
                 "name": "PHPunit",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
                 "type": "technology"
               },
               {
