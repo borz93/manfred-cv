@@ -46,6 +46,68 @@
     "jobs": [
       {
         "organization": {
+          "name": "Alten",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/f4b35616-e909-4500-8585-4e29a259c3e4_alten_spain_logo.jpeg",
+            "alt": "alten_spain_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior full stack developer",
+            "startDate": "2024-02-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de evolutivos para RTVE, así como documentacion y optimización de elementos en su entorno."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Apache Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "BeezNest",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/07/f663c5b7-e91a-4fba-bbdc-196053f8001c_descarga.png",
@@ -414,7 +476,7 @@
       },
       {
         "skill": {
-          "name": "Sonar",
+          "name": "SonarQube",
           "type": "technology"
         }
       },
@@ -558,12 +620,6 @@
       ],
       "contactMails": [
         "borja.sanchez01@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "684069947",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
