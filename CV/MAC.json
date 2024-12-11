@@ -46,6 +46,73 @@
     "jobs": [
       {
         "organization": {
+          "name": "Nsign.tv",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/11/7c54bf97-7ab2-4892-ba32-b039ff8e9c5e_nsign.jpg",
+            "alt": "nsign.jpg"
+          },
+          "URL": "https://info.nsign.tv/es/"
+        },
+        "roles": [
+          {
+            "name": "Full stack developer",
+            "startDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Mantenimiento y evolutivos del producto de Nsing.tv, plataforma de señalización digital.\nUsando metodología scrum, trabajo en corrección y optimización de la plataforma, así como en nuevas funcionalidades para la plataforma."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Monday",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Phalcon",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Alten",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/f4b35616-e909-4500-8585-4e29a259c3e4_alten_spain_logo.jpeg",
