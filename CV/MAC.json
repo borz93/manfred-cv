@@ -56,9 +56,10 @@
           {
             "name": "Senior full stack developer",
             "startDate": "2024-01-01",
+            "finishDate": "2024-04-01",
             "challenges": [
               {
-                "description": "Desarrollo de evolutivos para RTVE, así como documentacion y optimización de elementos en su entorno."
+                "description": "Desarrollo de evolutivos para RTVE, así como documentacion y optimización de elementos en su entorno digital."
               }
             ],
             "competences": [
@@ -75,7 +76,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -558,7 +559,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -618,9 +619,6 @@
           "URL": "https://github.com/BorjaSanchezBeezNest",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "borja.sanchez01@gmail.com"
       ]
     },
     "preferences": {
