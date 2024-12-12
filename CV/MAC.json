@@ -425,6 +425,12 @@
       },
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AngularJS",
           "type": "technology"
         }
@@ -438,6 +444,12 @@
       {
         "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
           "type": "technology"
         }
       },
