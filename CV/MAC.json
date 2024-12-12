@@ -449,6 +449,12 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
@@ -503,6 +509,12 @@
       },
       {
         "skill": {
+          "name": "Monday",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Moodle",
           "type": "technology"
         }
@@ -527,6 +539,12 @@
       },
       {
         "skill": {
+          "name": "Phalcon",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Primefaces",
           "type": "technology"
         }
@@ -534,6 +552,12 @@
       {
         "skill": {
           "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
           "type": "technology"
         }
       },
