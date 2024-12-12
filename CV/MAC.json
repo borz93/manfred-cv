@@ -497,6 +497,12 @@
       },
       {
         "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -504,6 +510,12 @@
       {
         "skill": {
           "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
           "type": "technology"
         }
       },
