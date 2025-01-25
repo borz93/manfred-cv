@@ -179,6 +179,10 @@
                 "type": "technology"
               },
               {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
                 "name": "Linux",
                 "type": "technology"
               },
@@ -192,6 +196,14 @@
               },
               {
                 "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "Zend",
                 "type": "technology"
               },
               {
