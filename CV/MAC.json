@@ -819,6 +819,10 @@
         {
           "name": "Symfony",
           "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
