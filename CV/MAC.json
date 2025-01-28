@@ -817,6 +817,10 @@
           "type": "technology"
         },
         {
+          "name": "PHPStorm",
+          "type": "technology"
+        },
+        {
           "name": "Symfony",
           "type": "technology"
         },
