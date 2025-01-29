@@ -684,38 +684,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Grado superior Desarrollo Aplicaciones Multiplataforma (DAM)",
-        "startDate": "2015-09-01",
-        "institution": {
-          "name": "IES Majuelo, Sevilla"
-        },
-        "finishDate": "2016-06-01",
-        "linkedCompetences": [
-          {
-            "name": "Android",
-            "type": "technology"
-          },
-          {
-            "name": "C#",
-            "type": "technology"
-          },
-          {
-            "name": "C++",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Grado superior Desarrollo de Aplicaciones Web (DAW)",
         "startDate": "2013-09-01",
         "institution": {
@@ -758,6 +726,43 @@
           "name": "IES Vicente Aleixandre, Sevilla"
         },
         "finishDate": "2013-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico grado superior en Desarrollo Aplicaciones Multiplataforma (DAM)",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "IES Majuelo, Sevilla",
+          "description": "Finalizado con éxito curso de 2 años en el grado superior de aplicaciones multiplataforma."
+        },
+        "finishDate": "2016-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
