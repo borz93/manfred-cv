@@ -477,6 +477,12 @@
       },
       {
         "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bootstrap",
           "type": "technology"
         }
@@ -520,6 +526,12 @@
       {
         "skill": {
           "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
           "type": "technology"
         }
       },
@@ -615,6 +627,12 @@
       },
       {
         "skill": {
+          "name": "PHPunit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Phalcon",
           "type": "technology"
         }
@@ -675,6 +693,12 @@
       },
       {
         "skill": {
+          "name": "Zend",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "jQuery",
           "type": "technology"
         }
@@ -698,9 +722,9 @@
         "startDate": "2015-09-01",
         "institution": {
           "name": "IES Majuelo, Sevilla",
-          "description": "Finalizado con éxito curso de 2 años en el grado superior de aplicaciones multiplataforma."
+          "description": "Finalizado con éxito curso de 2 años en el grado superior de aplicaciones multiplataforma, así como sus practicas empresariales en el sector."
         },
-        "finishDate": "2016-06-01",
+        "finishDate": "2017-06-01",
         "linkedCompetences": [
           {
             "name": "Android",
