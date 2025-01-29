@@ -684,42 +684,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Grado superior Desarrollo de Aplicaciones Web (DAW)",
-        "startDate": "2013-09-01",
-        "institution": {
-          "name": "IES Camas, Sevilla"
-        },
-        "finishDate": "2015-06-01",
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "Java",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Titulo en bachiller Ciencias",
         "startDate": "2011-09-01",
         "institution": {
@@ -760,6 +724,51 @@
           },
           {
             "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico grado superior en Desarrollo de Aplicaciones Web (DAW)",
+        "startDate": "2013-09-01",
+        "institution": {
+          "name": "IES Camas, Sevilla",
+          "description": "Finalizado con éxito grado superior en aplicaciones web, así como sus practicas empresariales en el sector."
+        },
+        "finishDate": "2015-06-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "jQuery",
             "type": "technology"
           }
         ]
