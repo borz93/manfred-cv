@@ -231,7 +231,7 @@
             "finishDate": "2023-12-01",
             "challenges": [
               {
-                "description": "Desarrollador de software para el proyecto open source Chamilo LMS, un sistema de e-learning gratuito mantenido por BeezNest.\nTrabajo 100% remoto, realizando tareas de mantenimiento e implementación de nuevas funcionalidades y evolutivos, así como adaptación e integración con nuevos plugin o APIs de tercero.\nTrabajo con gran autogestión, desde la concepción de la tarea hasta la resolución de la misma, incluyendo tests, despliegues, validaciones de código, etc."
+                "description": "Desarrollo y mantenimiento de soluciones en LMS (Learning Management Systems) con enfoque en escalabilidad y optimización, concretamente en Chamilo LMS.\n\n🔹 Responsabilidades:\n\n- Implementación de arquitecturas eficientes y diseño de software basado en principios SOLID.\n- Mejora de la experiencia de usuario (UI/UX) en las plataforma Chamilo.\n- Refactorización y optimización de código para garantizar rendimiento y seguridad.\n- Integración y construcción de plugin y APIs\n- Migración a nuevo framework."
               }
             ],
             "competences": [
