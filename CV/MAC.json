@@ -155,7 +155,7 @@
             "finishDate": "2024-04-01",
             "challenges": [
               {
-                "description": "Desarrollo y aplicación de correctivos en el área digital para el medio informativo RTVE.\nTrabajo en su área digital, enfocada al portal principal de noticias, con PHP, Symfony, NodeJS, Docker, como principales tecnologías, trabajando con equipo, y posteriormente dirigiendo dicho equipo, haciendo uso de distintas metodologías Agile como Scrum o Kanban."
+                "description": "Desarrollo y mantenimiento de evolutivos para las plataformas digitales de RTVE, asegurando estabilidad y mejoras en la experiencia del usuario.\n\n🔹 Responsabilidades:\n\n- Desarrollo y mantenimiento de módulos backend en PHP y Symfony, así como en NodeJS.\n- Gestión de pequeño equipo para resolver incidencias y correctivos.\n- Optimización del código y revisión de buenas prácticas en el equipo."
               }
             ],
             "competences": [
