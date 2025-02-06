@@ -289,7 +289,7 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/4b892218-8438-4d9f-bc58-d3f84d5a9c2e_1646647157104.jpg",
             "alt": "1646647157104.jpg"
           },
-          "URL": "https://www.linkedin.com/company/royal-comunicaci-n/mycompany/verification/"
+          "URL": "https://www.linkedin.com/company/royal-comunicaci-n"
         },
         "roles": [
           {
@@ -298,7 +298,7 @@
             "finishDate": "2022-10-01",
             "challenges": [
               {
-                "description": "Gestión de proyecto, arquitectura de base de datos relacional, arquitectura proyecto en Laravel, trato con cliente, gestión de un equipo pequeño y organización de tareas.\nY por supuesto, picando código."
+                "description": "Gestiona de proyecto y pequeño equipo al cargo para gran supermercado español, concretamente en las áreas digitales de los socios-clientes y en el ecosistema de APIs, integración y procesado de datos.\nPriorización y estimación de tareas, diseño de arquitectura para API central y de base de datos relacional, evolutivos, mantenimiento y resolución de incidencias de alta criticidad."
               }
             ],
             "competences": [
