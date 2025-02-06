@@ -354,7 +354,7 @@
             "finishDate": "2019-05-01",
             "challenges": [
               {
-                "description": "Gestión de proyecto, resolución de incidencias, gestión de equipo y mucho picar código."
+                "description": "Mantenimiento y evolutivos de distintos proyectos, enfocados al ámbito web, de distintos clientes. Enfocado en mantenimiento en gran cliente con ecosistema digital de gran envergadura y tráfico web. Modalidad de trabajo presencial."
               }
             ],
             "competences": [
@@ -711,7 +711,8 @@
         "name": "Titulo en bachiller Ciencias",
         "startDate": "2011-09-01",
         "institution": {
-          "name": "IES Vicente Aleixandre, Sevilla"
+          "name": "IES Vicente Aleixandre, Sevilla",
+          "description": "Obtención titulo bachillerato, modalidad Ciencias exactas, física, química y dibujo técnico, así como obtención posterior de selectividad o prueba de acceso a la Universidad."
         },
         "finishDate": "2013-06-01"
       },
