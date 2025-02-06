@@ -59,7 +59,7 @@
             "startDate": "2024-04-01",
             "challenges": [
               {
-                "description": "Mantenimiento y evolutivos del producto de Nsing.tv, plataforma de señalización digital.\nUsando metodologías agile, como scrum y kanban, se realizan trabajos en la corrección y optimización de la plataforma (Phalcon PHP, Vue, Doctrine), así como en la creación de proyectos o microservicios de APIs (Symfony, Swagger), en un entorno dockerizado. Trabajo 100% remoto con visitas ocasionales a las oficinas."
+                "description": "Diseño y desarrollo de APIs escalables para aplicaciones de signage digital, optimizando rendimiento y asegurando robustez en cada implementación, así como evolutivos en plataforma principal.\n\n🔹 Responsabilidades:\n\n- Desarrollo y mantenimiento de APIs REST, asegurando escalabilidad y eficiencia.\n- Implementación de arquitecturas optimizadas para alto tráfico.\n- Resolución de bugs y mejora continua de las funcionalidades existentes.\n- Integración de sistemas distribuidos y cloud computing."
               }
             ],
             "competences": [
