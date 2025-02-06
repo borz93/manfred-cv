@@ -59,7 +59,7 @@
             "startDate": "2024-04-01",
             "challenges": [
               {
-                "description": "Mantenimiento y evolutivos del producto de Nsing.tv, plataforma de señalización digital.\nUsando metodologías agile, como scrum y kanban, trabajo en corrección y optimización de la plataforma, así como en nuevas funcionalidades para la plataforma."
+                "description": "Mantenimiento y evolutivos del producto de Nsing.tv, plataforma de señalización digital.\nUsando metodologías agile, como scrum y kanban, se realizan trabajos en la corrección y optimización de la plataforma (Phalcon PHP, Vue, Doctrine), así como en la creación de proyectos o microservicios de APIs (Symfony, Swagger), en un entorno dockerizado. Trabajo 100% remoto con visitas ocasionales a las oficinas."
               }
             ],
             "competences": [
