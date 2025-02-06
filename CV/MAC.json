@@ -145,7 +145,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/f4b35616-e909-4500-8585-4e29a259c3e4_alten_spain_logo.jpeg",
             "alt": "alten_spain_logo.jpeg"
-          }
+          },
+          "URL": "https://www.linkedin.com/company/alten/"
         },
         "roles": [
           {
@@ -154,7 +155,7 @@
             "finishDate": "2024-04-01",
             "challenges": [
               {
-                "description": "Desarrollo de evolutivos para RTVE, así como documentacion y optimización de elementos en su entorno digital."
+                "description": "Desarrollo y aplicación de correctivos en el área digital para el medio informativo RTVE.\nTrabajo en su área digital, enfocada al portal principal de noticias, con PHP, Symfony, NodeJS, Docker, como principales tecnologías, trabajando con equipo, y posteriormente dirigiendo dicho equipo, haciendo uso de distintas metodologías Agile como Scrum o Kanban."
               }
             ],
             "competences": [
