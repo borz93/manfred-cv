@@ -319,10 +319,14 @@
             "finishDate": "2022-10-01",
             "challenges": [
               {
-                "description": "Gestiona de proyecto y pequeño equipo al cargo para gran supermercado español, concretamente en las áreas digitales de los socios-clientes y en el ecosistema de APIs, integración y procesado de datos.\nPriorización y estimación de tareas, diseño de arquitectura para API central y de base de datos relacional, evolutivos, mantenimiento y resolución de incidencias de alta criticidad."
+                "description": "Gestiona de proyecto y pequeño equipo al cargo para gran supermercado español, concretamente en las áreas digitales de los socios-clientes y en el ecosistema de APIs, integración y procesado de datos (PHP, Zend, Apache).\nPriorización y estimación de tareas, diseño de arquitectura para API central (Laravel) y de base de datos relacional (MySQL), evolutivos, mantenimiento y resolución de incidencias de alta criticidad."
               }
             ],
             "competences": [
+              {
+                "name": ".htaccess",
+                "type": "technology"
+              },
               {
                 "name": "API",
                 "type": "technology"
